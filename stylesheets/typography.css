@@ -1,0 +1,23 @@
+body, input, button {
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  line-height: 21px;
+  color: #333;
+}
+
+a {
+  color: #1A3DC1;
+  text-decoration: none;
+}
+  
+a:hover {
+  text-decoration: underline;
+}
+
+p {
+  
+}
+
+h1 {
+  
+}
