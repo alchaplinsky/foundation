@@ -1,0 +1,24 @@
+/* Default desktop */
+@media (min-width: 980px) {
+  
+}
+
+/* Large desktop & up */
+@media (min-width: 1200px) {
+  
+}
+
+/* Tablets and below */
+@media (max-width: 979px) {
+  
+}
+
+/* Landscape prhone up to portrait iPad */
+@media (max-width: 767px) {
+  
+}
+
+/* Vertical phone up to landscape phone */
+@media (max-width: 480px) {
+  
+}
